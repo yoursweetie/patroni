@@ -1,6 +1,6 @@
 |Tests Status| |Coverage Status|
 
-Patroni: A Template for PostgreSQL HA with ZooKeeper, etcd or Consul
+Patroni: A Template for PostgreSQL HA with etcd, ZooKeeper or Consul
 --------------------------------------------------------------------
 
 You can find a version of this documentation that is searchable and also easier to navigate at `patroni.readthedocs.io <https://patroni.readthedocs.io>`__.
